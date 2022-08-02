@@ -1,0 +1,89 @@
+body{
+    display: flex;
+    flex-direction: row;
+    background: #93d9e9;
+    align-items: center;
+    justify-content: center;
+    margin-top: 9rem;
+}
+main {
+    display: flex;
+    align-content: center;
+    margin-top: 9%;
+}
+div{
+    min-height: 480px;
+    min-width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem;
+    border-radius: 7px;
+}
+
+.one{
+    background: white;
+    
+}
+
+.two{
+    background: rgb(255, 255, 255);
+}
+
+.three{
+    background: white;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+}
+
+.headerone{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background: salmon;
+}
+.headertwo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background: salmon;
+}
+.headerthree{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background: salmon;
+}
+
+.btn-one{
+    margin-top: 13.7rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: 7px;
+    border-Color: white;
+}
+
+.btn-two{
+    margin-top: 11rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: 7px;
+    border-Color: white;
+}
+
+.btn-three{
+    margin-top: 7.8rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: 7px;
+    border-Color: white;
+}
